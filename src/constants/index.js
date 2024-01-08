@@ -1,5 +1,6 @@
 import everlights from '../assets/icons/everlights.png';
 import myriad from '../assets/icons/myriad.png';
+
 import docker from '../assets/icons/docker.png';
 import postgresql from '../assets/icons/postgresql.png';
 import tailwind from '../assets/icons/tailwind.png';
@@ -12,6 +13,11 @@ import expressjs from '../assets/icons/expressjs.png';
 import css from '../assets/icons/css.png';
 import html from '../assets/icons/html.png';
 import webpack from '../assets/icons/webpack.png';
+
+import social from '../assets/icons/social.png';
+import wave from '../assets/icons/wave.png';
+
+
 
 export const skills = [
     {
@@ -103,3 +109,20 @@ export const workExperience = [
         color: '#3dae2b'
     }
 ];
+
+export const projects = [
+    {
+        name: 'Swell Dwell',
+        description: 'Explore weather data with Swell Dwell. Visualize detailed information such as water temperature, wind speed, wave height, and swell period in a convenient table format. Simply click on any location on the map to view its weather data.',
+        link: 'https://swell-dwell.onrender.com/',
+        icon: wave,
+        color: ''
+    },
+    {
+        name: 'WePost',
+        description: 'A social platform that allows users to create and share posts documenting incidents related to law enforcement. Using an Upvote/Downvote model, all users can participate in incident verification. Share, engage, and contribute to a community-driven effort aimed at raising awareness and promoting positive change in law enforcement practices.',
+        link: '',
+        icon: social,
+        color: ''
+    }
+]
