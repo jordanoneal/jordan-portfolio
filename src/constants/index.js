@@ -75,11 +75,6 @@ export const skills = [
         type: 'DevOps',
         imageUrl: docker,
     },
-    {
-        name: 'Webpack',
-        type: 'Module Bundler',
-        imageUrl: webpack,
-    }
 ];
 
 export const workExperience = [
