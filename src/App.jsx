@@ -6,7 +6,7 @@ import { About, Projects } from './pages'
 function App() {
   return (
     <main className='bg-slate-300/20 h-full'>
-      <Router>
+      <Router basename='/jordan-portfolio'>
         <Navbar />
         <Routes>
           <Route path='/' element={<About />} />
