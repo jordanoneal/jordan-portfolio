@@ -12,7 +12,7 @@ import nodejs from '../assets/icons/nodejs.png';
 import expressjs from '../assets/icons/expressjs.png';
 import css from '../assets/icons/css.png';
 import html from '../assets/icons/html.png';
-import webpack from '../assets/icons/webpack.png';
+import aws from '../assets/icons/aws.png';
 
 import social from '../assets/icons/social.png';
 import wave from '../assets/icons/wave.png';
@@ -75,6 +75,11 @@ export const skills = [
         type: 'DevOps',
         imageUrl: docker,
     },
+    {
+        name: 'Amazon Web Services',
+        type: 'DevOps',
+        imageUrl: aws,
+    }
 ];
 
 export const workExperience = [
@@ -84,10 +89,10 @@ export const workExperience = [
         icon: everlights,
         date: "Dec 2020 - Present",
         responsibilities: [
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+            'Driving the development of Portal, an internal tool created to automate the sales funnel.',
+            'Reduce the use of third-party APIs where applicable to reduce costs and improve performance.',
+            'Create one place where all or most data can be stored.',
+            'Capture and display data to help optimize sales.',
         ],
         color: 'rgb(22,109,255)'
     },
@@ -97,9 +102,9 @@ export const workExperience = [
         icon: myriad,
         date: "Aug 2016 - Dec 2020",
         responsibilities: [
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+            'Conducted monthly performance reviews and audited worked acccounts',
+            'Generate and send appeal letters to insurance companies to overturn denied claims.',
+            'Lead projects focused on recovering uncollectable revenue.',
         ],
         color: '#3dae2b'
     }

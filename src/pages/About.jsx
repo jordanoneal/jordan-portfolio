@@ -11,7 +11,7 @@ export default function About() {
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-        <p>I am a software developer with a two years of experience designing and developing systems for business solutions.
+        <p>I am a software developer with two years of experience using web-based technologies to design and develop systems for business solutions.
           I love diving into new technologies and using them to address real-world challenges.
         </p>
       </div>

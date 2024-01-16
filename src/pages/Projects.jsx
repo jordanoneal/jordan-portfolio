@@ -10,8 +10,8 @@ export default function Projects() {
             </h1>
 
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-                <p>Hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor. Hodor hodor HODOR! Hodor. Hodor hodor! Hodor hodor. Hodor, hodor. Hodor. HODOR? HODOR hodor, hodor. Hodor! Hodor hodor. Hodor! Hodor hodor. Hodor? Hodor hodor! Hodor hodor HODOR! Hodor.
-                    Hodor hodor. HODOR hodor, hodor. HODOR HODOR! HODOR? HODOR HODOR! HODOR HODOR! Hodor, hodor. Hodor. Hodor. HODOR HODOR! Hodor hodor! Hodor! Hodor hodor. Hodor hodor! Hodor? Hodor, hodor, hodor hodor. Hodor... Hodor hodor.
+                <p>During my time at Coding Bootcamp, I worked on several projects that I've since revised and updated to align with my current tech stack and skills.
+                    These experiences have helped me develop valuable skills in teamwork, project management, and full-stack application development.
                 </p>
             </div>
 
